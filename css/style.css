@@ -9,13 +9,13 @@ body {
 	font-family: "Segoe UI";
 	/* im basic and adding a repeated border like last time bc i thinks its so cute... my css got soooo mad at me tho lol bc of the gradient*/
 	background-image:
-		url('/images/coffeecursor.png'),
-		url('/images/coffeecursor.png'),
+		url('images/coffeecursor.png'),
+		url('images/coffeecursor.png'),
 		linear-gradient(to bottom, #3e220f, #fdf0d5);
 	background-repeat: repeat-y, repeat-y, no-repeat;
 	background-position: left top, right top, center;
 	background-size: 32px 32px, 32px 32px, cover;
-	cursor: url('/images/coffeecursor.png'), auto;
+	cursor: url('images/coffeecursor.png'), auto;
 	min-height: 100vh;
 	/* my gradient kept being a meanie >:( */
 	
@@ -336,4 +336,5 @@ margin: 20px 80px;
 #submitButton:hover {
 	background-color: #a67845;
 	transform: scale(1.05);
+
 }
