@@ -4,8 +4,8 @@ Welcome to High Dosage, an interactive website full of coffee knowledge. Full JS
 **IMPORTANT INFORMATION**
 *Please read before proceeding*
 
-> This website is intended to run on gitHub. To run on Windows Browser separately you must remove
-"/" from "/images" in the CSS for the cursor, both for it's border and the custom cursor.
+> This website is intended to run on gitHub, some functionality may differ when viewed as an html document on your chosen browser.
+(specifically the "coffee cursor" css code, it may need to be slightly modified when ran.)
 
 > All visual and audio assets are handmade for "Create-A-Latte," - they are free to use w/o credit.
 > All code is free to use and download, if I uploaded it incorrectly and you'd like to access it: contact me @ immon3@crk.umn.edu
